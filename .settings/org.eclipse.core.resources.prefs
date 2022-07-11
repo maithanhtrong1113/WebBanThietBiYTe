@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/views/admin/hoadon/chiTiet.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/hoadon/trangChu.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/thietbi/trangChu.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/common/error.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web/chiTietThietBi/chiTietThietBi.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web/gioHang/gioHang.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web/gioHang/ketQuaDatHang.jsp=UTF-8
